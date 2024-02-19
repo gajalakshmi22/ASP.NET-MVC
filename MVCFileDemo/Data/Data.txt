@@ -1,0 +1,27 @@
+﻿
+Home->Index-> OnActionExecuting 	- 2/19/2024 2:56:45 PM
+
+Home->Index-> OnActionExecuting 	- 2/19/2024 2:56:45 PM
+Home->Index-> OnActionExecuted 	- 2/19/2024 2:56:45 PM
+Home->Index-> OnResultExecuting 	- 2/19/2024 2:56:45 PM
+Home->Index->OnResultExecuted 	- 2/19/2024 2:56:45 PM
+---------------------------------------------------------------
+Home->Index-> OnActionExecuting 	- 2/19/2024 2:59:20 PM
+Home->Index-> OnActionExecuted 	- 2/19/2024 2:59:20 PM
+Home->Index-> OnResultExecuting 	- 2/19/2024 2:59:20 PM
+Home->Index->OnResultExecuted 	- 2/19/2024 2:59:20 PM
+---------------------------------------------------------------
+Home->Index-> OnActionExecuting 	- 2/19/2024 2:59:21 PM
+Home->Index-> OnActionExecuted 	- 2/19/2024 2:59:21 PM
+Home->Index-> OnResultExecuting 	- 2/19/2024 2:59:21 PM
+Home->Index->OnResultExecuted 	- 2/19/2024 2:59:21 PM
+---------------------------------------------------------------
+Home->Index-> OnActionExecuting 	- 2/19/2024 3:00:03 PM
+Home->Index-> OnActionExecuted 	- 2/19/2024 3:00:03 PM
+Home->Index-> OnResultExecuting 	- 2/19/2024 3:00:03 PM
+Home->Index->OnResultExecuted 	- 2/19/2024 3:00:03 PM
+---------------------------------------------------------------
+Home->Welcome-> OnActionExecuting 	- 2/19/2024 3:00:33 PM
+Home->Welcome-> OnActionExecuted 	- 2/19/2024 3:01:13 PM
+Home->Welcome->Exception Occured 	- 2/19/2024 3:01:13 PM
+---------------------------------------------------------------
